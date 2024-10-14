@@ -15,10 +15,5 @@
  
 <br>
  
-### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+### Pra conteúdo sobre programação me segue a gente nas redes do lado esquerdo !
  
-<div> 
- https://www.youtube.com/@Kalebreus
-  https://www.instagram.com/jonathan_k310/profilecard/?igsh=MXR0YWR1djJwOTN6ag==
- https://wa.me/5511988185893
- https://discord.com/channels/974877471050706994/1239372625562701885
