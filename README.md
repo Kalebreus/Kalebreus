@@ -18,6 +18,7 @@
 ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
  
 <div> 
-  <a href="https://www.youtube.com/Kalebreus" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/Kalebreus" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/5DVhGKVf4h" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+ https://www.youtube.com/@Kalebreus
+  https://www.instagram.com/jonathan_k310/profilecard/?igsh=MXR0YWR1djJwOTN6ag==
+ https://wa.me/5511988185893
+ https://discord.com/channels/974877471050706994/1239372625562701885
